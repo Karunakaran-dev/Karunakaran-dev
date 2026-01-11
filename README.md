@@ -31,7 +31,7 @@ Aspiring Software Developer | Java | SQL | Web Development
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Karunakaran-dev&show_icons=true&theme=tokyonight"/>
 </p>
