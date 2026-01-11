@@ -31,7 +31,5 @@ Aspiring Software Developer | Java | SQL | Web Development
 
 ---
 
-### 📊 GitHub Status
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Karunakaran-dev&theme=tokyonight">
-</p>
+### 📊 GitHub Activity
+Consistently building projects and improving coding skills.
