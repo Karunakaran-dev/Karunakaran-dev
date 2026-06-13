@@ -97,7 +97,7 @@ Seeking an opportunity as a Java Full Stack Developer where I can contribute to 
 
 💻 GitHub: https://github.com/a-karunakaran-dev
 
-🔗 LinkedIn: https://www.linkedin.com/in/a-karunakaran-dev/
+🔗 LinkedIn: https://www.linkedin.com/in/a-karunakaran-dev
 
 📧 Email: [a.karunakaran.dev@gmail.com](mailto:a.karunakaran.dev@gmail.com)
 
