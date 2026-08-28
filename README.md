@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karunakaran
 
-### Java Full Stack Developer | Spring Boot | Hibernate | MySQL | REST APIs
+Java Full Stack Developer | Java • Spring Boot • REST APIs • MySQL • JavaScript
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
@@ -81,7 +81,7 @@ Responsive portfolio website showcasing technical skills, projects, certificatio
 
 ## 🎯 Career Objective
 
-Seeking an opportunity as a Java Full Stack Developer where I can contribute to impactful software projects while expanding my expertise in Java, Spring Boot, Hibernate, and modern web technologies.
+Building backend services and full-stack applications with Java and Spring Boot, with a focus on clean code, REST APIs, database design, and maintainable architecture.
 
 ---
 
