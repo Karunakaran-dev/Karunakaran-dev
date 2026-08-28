@@ -85,14 +85,6 @@ Building backend services and full-stack applications with Java and Spring Boot,
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-karunakaran-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-karunakaran-dev&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 💻 GitHub: https://github.com/a-karunakaran-dev
